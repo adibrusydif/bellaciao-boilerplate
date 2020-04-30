@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="App/Assets/Images/dali.png" alt="Logo" width="100%">
+    <img src="App/Assets/Images/dali.png" alt="Logo" width="50%">
 </div>
 
 
